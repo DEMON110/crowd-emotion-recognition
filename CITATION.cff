@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: >-
+  Crowd-Level Emotion Recognition from Still-Image Sequences via a
+  Cascaded Viola–Jones Detector, HOG–Quadratic-SVM Classification, and
+  Temporally Decayed Evidence Voting — Reference Evaluation Harness
+message: >-
+  If you use this software, please cite the accompanying manuscript.
+type: software
+authors:
+  - family-names: "[Author surname]"
+    given-names: "[Author given name]"
+    affiliation: "[Affiliation]"
+    orcid: "https://orcid.org/[XXXX-XXXX-XXXX-XXXX]"
+date-released: 2026-11-12
+license: MIT
+repository-code: "https://github.com/[your-handle]/crowd-emotion-recognition"
+keywords:
+  - crowd emotion recognition
+  - group-level affect
+  - Viola-Jones
+  - histogram of oriented gradients
+  - support vector machine
+  - majority voting
+  - edge AI
+  - Green AI

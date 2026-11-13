@@ -1,0 +1,19 @@
+# Data (never commit datasets — see data/README.md for licensing)
+data/raw/
+data/processed/
+*.parquet
+*.zip
+*.tiff
+
+# Models (large binaries; regenerate with the harness)
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS / editors
+.DS_Store
+*.swp
